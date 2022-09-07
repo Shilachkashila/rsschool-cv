@@ -7,8 +7,8 @@ Contact information:
 --------------------
 
 Phone: +38 097 1517435  
-E-mail: shilachkashilana@gmail.com
-Discord: Svetlana (@Shilachkashila)
+E-mail: shilachkashilana@gmail.com  
+Discord: Svetlana (@Shilachkashila)  
 [LinkedIn](https://www.linkedin.com/in/svetlana-berdysheva-986863210/)  
 
 
@@ -41,13 +41,13 @@ Code example:
     multiply(4, 7)
 
 
-Projects  
+Projects:  
 --------
 
 <https://github.com/Shilachkashila/rsschool-cv>
 
 
-Education  
+Education:  
 ---------
 
 1999-2002 Vocational and technical school number 7, Oleksandria  
@@ -62,7 +62,7 @@ specialty: landscape designer
 I study website layout independently from materials on the Internet
 
 
-English  
+English:  
 -------
 
 A2 Elementary
