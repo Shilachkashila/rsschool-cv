@@ -2,6 +2,7 @@
 Berdysheva Svstlana
 ===================
 
+
 Contact information:  
 --------------------
 
@@ -34,8 +35,34 @@ Useful Skills and Abilities:
 Code example:  
 -------------
 
+    function multiply(a, b){
+    return a * b
+    }
+    multiply(4, 7)
 
-3Примеры кода
-4Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-5бразование (включая пройденные курсы и тренинги)
-6Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+
+Projects  
+--------
+
+<https://github.com/Shilachkashila/rsschool-cv>
+
+
+Education  
+---------
+
+1999-2002 Vocational and technical school number 7, Oleksandria  
+specialty: tailor.  
+
+2006 Professional courses in the village of Vlasivka  
+specialty: operator of bridge and gantry cranes  
+
+2010 Professional courses in the Odessa  
+specialty: landscape designer  
+
+I study website layout independently from materials on the Internet
+
+
+English  
+-------
+
+A2 Elementary
